@@ -1,0 +1,11 @@
+BDEPEND=dev-util/gtk-update-icon-cache >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=A flat colorful Design icon theme
+EAPI=7
+HOMEPAGE=https://github.com/vinceliuice/Tela-icon-theme
+IUSE=+standard black blue brown green grey orange pink purple red yellow
+LICENSE=GPL-3+
+REQUIRED_USE=|| ( standard black blue brown green grey orange pink purple red yellow )
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=00176d44342e7c90374cf3a4c506b387
