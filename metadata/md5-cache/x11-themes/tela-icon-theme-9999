@@ -2,10 +2,10 @@ BDEPEND=dev-util/gtk-update-icon-cache >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install unpack
 DESCRIPTION=A flat colorful Design icon theme
 EAPI=7
-HOMEPAGE=https://github.com/vinceliuice/Tela-icon-theme
+HOMEPAGE=https://www.pling.com/p/1279924 https://github.com/vinceliuice/Tela-icon-theme
 IUSE=black +blue brown green grey orange pink purple red yellow manjaro ubuntu
 LICENSE=GPL-3+
 REQUIRED_USE=^^ ( black blue brown green grey orange pink purple red yellow manjaro ubuntu )
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=52e8f262589e990ae4d9e91b99601f3f
+_md5_=e5829b1430661cac731ad008f427d95b
