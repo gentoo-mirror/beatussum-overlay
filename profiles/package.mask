@@ -11,8 +11,8 @@
 ## Example:
 ##
 ## # Foo Bar <foo@gentoo.org> (29 Mar 2003)
-## # Masking  these versions until we can get
-## # the v4l stuff  to  work  properly  again
+## # Masking these versions until we can get
+## # the v4l stuff to work properly again.
 ## =media-video/mplayer-0.90_pre5
 ## =media-video/mplayer-0.90_pre5-r1
 #
