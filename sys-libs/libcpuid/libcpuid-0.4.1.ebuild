@@ -6,11 +6,11 @@ EAPI=7
 inherit autotools
 
 DESCRIPTION="A small C library for x86 (and x86_64) CPU detection and feature extraction"
-HOMEPAGE="http://libcpuid.sourceforge.net https://github.com/anrieff/libcpuid"
+HOMEPAGE="http://libcpuid.sourceforge.net"
 SRC_URI="https://github.com/anrieff/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="BSD-2"
 SLOT="0/14"
-KEYWORDS="-* ~amd64 ~x86"
+KEYWORDS="-* amd64 ~x86"
 IUSE="test"
 RESTRICT="primaryuri"
 
