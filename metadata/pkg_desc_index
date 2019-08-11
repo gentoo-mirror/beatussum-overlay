@@ -3,7 +3,8 @@ app-shells/zsh-autosuggestions 0.6.3: Fish-like fast/unobtrusive autosuggestions
 app-shells/zsh-history-substring-search 1.0.1: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.6.0: Fish shell like syntax highlighting for Zsh
 sys-libs/libcpuid 0.4.1: A small C library for x86 (and x86_64) CPU detection and feature extraction
+sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization
 x11-themes/capitaine-xcursors 3: An x-cursor theme inspired by macOS and based on KDE Breeze
-x11-themes/kde-plasma-chili 0.5.5: The hottest login theme around for KDE Plasma 5
-x11-themes/tela-icon-theme 20190628: A flat colorful Design icon theme
+x11-themes/kde-plasma-chili 0.5.5 0.5.5-r1: The hottest login theme around for KDE Plasma 5
+x11-themes/tela-icon-theme 20190628 99999999: A flat colorful Design icon theme
