@@ -11,5 +11,5 @@ REQUIRED_USE=|| ( standard black blue brown green grey orange pink purple red ye
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/vinceliuice/Tela-icon-theme/archive/2019_06_28.tar.gz -> tela-icon-theme-20190628.tar.gz
-_eclasses_=xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	14d00d009167652b1fa363e55effe213
+_eclasses_=xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	92c60e3d7f481da372979bdcd33e5109
 _md5_=19bd3205c5bd1fb7a99319d1e72005d8
