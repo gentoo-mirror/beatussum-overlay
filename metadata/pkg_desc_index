@@ -7,4 +7,4 @@ sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, m
 x11-themes/arc-kde 20180614: Arc KDE customization
 x11-themes/capitaine-xcursors 3: An x-cursor theme inspired by macOS and based on KDE Breeze
 x11-themes/kde-plasma-chili 0.5.5 0.5.5-r1: The hottest login theme around for KDE Plasma 5
-x11-themes/tela-icon-theme 20190628 99999999: A flat colorful Design icon theme
+x11-themes/tela-icon-theme 20190628 20190929 99999999: A flat colorful Design icon theme
