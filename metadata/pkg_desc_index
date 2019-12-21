@@ -1,3 +1,4 @@
+app-editors/unity 2019.2.17f: Editor to create games on the Unity engine
 app-shells/grmlzshrc 0.16.0: Grmls core configuration files for zsh
 app-shells/zsh-autosuggestions 0.6.3: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.1 1.0.2: ZSH port of Fish history search (up arrow)
