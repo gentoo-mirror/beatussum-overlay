@@ -1,4 +1,4 @@
-app-editors/unity 2019.2.17f-r1: Editor to create games on the Unity engine
+app-editors/unity 2019.2.17f-r2: Editor to create games on the Unity engine
 app-editors/unity-android 2019.2.17f: A Unity plugin for developing on the Android platform
 app-editors/unity-doc 2019.2.17f: Documentation for Unity Editor
 app-editors/unity-facebook 2019.2.17f: A Unity plugin for developing on the Facebook platform
@@ -10,6 +10,7 @@ app-shells/grmlzshrc 0.16.0: Grmls core configuration files for zsh
 app-shells/zsh-autosuggestions 0.6.3: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.1 1.0.2: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.6.0: Fish shell like syntax highlighting for Zsh
+dev-games/unityhub 2.2.2: A tool to manage your Unity Projects and installations
 sys-libs/libcpuid 0.4.1: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization
