@@ -10,4 +10,4 @@ RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/MacEditorTargetInstaller/UnitySetup-Facebook-Games-Support-for-Editor-2019.2.17f1.pkg -> unity-facebook-2019.2.17f.pkg
 _eclasses_=unity-plugins	6bb08b57398b388ed03ea5b6a15234cf	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=f23a8da979ece16074de6231da49c3bd
+_md5_=613dcec75cdbcf2384719760188ba2b3
