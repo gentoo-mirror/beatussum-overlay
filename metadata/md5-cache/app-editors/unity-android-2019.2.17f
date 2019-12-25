@@ -9,5 +9,5 @@ RDEPEND=dev-util/android-sdk-update-manager virtual/jdk ~app-editors/unity-2019.
 RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2019.2.17f1.pkg -> unity-android-2019.2.17f.pkg
-_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	6bb08b57398b388ed03ea5b6a15234cf	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=6237fb798c52990241aec67e2551fd21
+_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	653cc846a8a0712f9ba0283045c2c916	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=b8591f6ef5d48c61ffc8055ef91acf8a

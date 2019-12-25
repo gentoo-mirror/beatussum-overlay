@@ -13,4 +13,4 @@ RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/LinuxEditorInstaller/Unity.tar.xz -> unity-2019.2.17f.tar.xz
 _eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=6f316f0f1716ec881d39d9fbbd165663
+_md5_=d0bbd0a7b34296d0715753f8547ddfd4
