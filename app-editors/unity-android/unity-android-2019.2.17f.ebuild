@@ -11,9 +11,7 @@ DESCRIPTION="A Unity plugin for developing on the Android platform"
 HOMEPAGE="https://unity3d.com"
 
 HASH="8e603399ca02"
-SRC_URI="
-	${SRC_URI_BASE}/${HASH}/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-${MY_PV}.pkg -> ${P}.pkg
-"
+SRC_URI="${SRC_URI_BASE}/${HASH}/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-${MY_PV}.pkg -> ${P}.pkg"
 
 LICENSE="Unity-EULA"
 SLOT="2019"
@@ -34,6 +32,7 @@ CHECKREQS_DISK_BUILD="1800M"
 
 src_install() {
 	# To avoid changing permissions
-	cp -r "${P}" "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines/AndroidPlayer" \
-		 || die
+	dodir "${UNITY_ENGINES_DIR}"
+	cp -ar "${P}" "${D}/${UNITY_ENGINES_DIR}/AndroidPlayer" \
+		|| die "The installation has failed"
 }

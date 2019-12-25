@@ -24,14 +24,15 @@ src_unpack() {
 
 src_prepare() {
 	sed -e "/^X-AppImage/d" -e "s/Exec=AppRun/Exec=${PN}/" \
-		"squashfs-root/${PN}.desktop" > "${T}/${PN}.desktop" || die
+		"squashfs-root/${PN}.desktop" > "${T}/${PN}.desktop" \
+		|| die
 
 	find squashfs-root \( -name "*.txt" -or -name "*.html" \) \
-		-exec rm {} \; || die
+		-exec rm {} \; || die "The cleanup has failed"
 	find squashfs-root \( -iname "LICENSE*" -or -iname "README*" \) \
-		-exec rm {} \; || die
-	rm squashfs-root/AppRun || die
-	rm "squashfs-root/${PN}".* || die
+		-exec rm {} \; || die "The cleanup has failed"
+	rm squashfs-root/AppRun || die "The cleanup has failed"
+	rm "squashfs-root/${PN}".* || die "The cleanup has failed"
 
 	default
 }
@@ -40,7 +41,8 @@ src_install() {
 	local -r dir="/opt/${PN}"
 
 	# To avoid changing permissions
-	cp -r squashfs-root/* "${dir}"
+	dodir "${dir}"
+	cp -ar squashfs-root/* "${D}/${dir}" || die "The installation has failed"
 
 	make_wrapper "${PN}" "${dir}/${PN}" "" "${dir}:${dir}/usr/lib"
 	doicon -s 48 "squashfs-root/usr/share/icons/hicolor/48x48/apps/${PN}.png"

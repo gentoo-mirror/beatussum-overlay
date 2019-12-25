@@ -12,9 +12,7 @@ HOMEPAGE="https://unity3d.com"
 
 HASH="8e603399ca02"
 SRC_URI_BASE="https://beta.unity3d.com/download/${HASH}"
-SRC_URI="
-	${SRC_URI_BASE}/LinuxEditorInstaller/Unity.tar.xz -> ${P}.tar.xz
-"
+SRC_URI="${SRC_URI_BASE}/LinuxEditorInstaller/Unity.tar.xz -> ${P}.tar.xz"
 
 LICENSE="Unity-EULA"
 SLOT="2019"
@@ -65,12 +63,20 @@ src_prepare() {
 }
 
 src_install() {
-	local -r unity_dir="/opt/${MY_PNS}"
+	local -r dir="/opt/${MY_PNS}"
 
 	# To avoid changing permissions
-	cp -r Editor "${unity_dir}" || die
+	dodir "${dir}"
+	cp -ar Editor "${D}/${dir}" || die "The installation has failed"
 
-	make_wrapper "${MY_PNS}" "${unity_dir}/Editor/Unity"
+	make_wrapper "${MY_PNS}" "${dir}/Editor/Unity"
 	newicon -s 256 "Editor/Data/Resources/LargeUnityIcon.png" "${MY_PNS}.png"
 	domenu "${T}/${MY_PNS}.desktop"
+}
+
+pkg_postinst() {
+	xdg_pkg_postinst
+
+	ewarn "Before launching Unity for the first time, you should activate your"
+	ewarn "license via Unity hub (already installed as a dependency)."
 }
