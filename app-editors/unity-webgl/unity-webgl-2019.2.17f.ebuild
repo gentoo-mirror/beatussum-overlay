@@ -34,7 +34,5 @@ CHECKREQS_DISK_BUILD="1G"
 
 src_install() {
 	# To avoid changing permissions
-	insopts ""
-	insinto "/opt/${UNITY_INS}"
-	doins -r *
+	cp -r * "/opt/${UNITY_INS}"
 }

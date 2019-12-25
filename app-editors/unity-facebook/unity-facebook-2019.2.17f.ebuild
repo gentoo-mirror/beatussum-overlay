@@ -27,8 +27,6 @@ QA_PREBUILT="*"
 
 src_install() {
 	# To avoid changing permissions
-	insopts ""
-	insinto "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines"
-	mv "${P}" Facebook || die
-	doins -r Facebook
+	cp -r "${P}" "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines/Facebook" \
+		|| die
 }

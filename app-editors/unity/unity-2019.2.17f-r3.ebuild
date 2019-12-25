@@ -68,9 +68,7 @@ src_install() {
 	local -r unity_dir="/opt/${MY_PNS}"
 
 	# To avoid changing permissions
-	insopts ""
-	insinto "${unity_dir}"
-	doins -r Editor
+	cp -r Editor "${unity_dir}" || die
 
 	make_wrapper "${MY_PNS}" "${unity_dir}/Editor/Unity"
 	newicon -s 256 "Editor/Data/Resources/LargeUnityIcon.png" "${MY_PNS}.png"
