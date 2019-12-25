@@ -26,7 +26,7 @@ S="${WORKDIR}"
 QA_PREBUILT="*"
 
 src_install() {
-	insinto "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines"
-	mv "${P}" WindowsStandaloneSupport || die
-	doins -r WindowsStandaloneSupport
+	# To avoid changing permissions
+	cp -r "${P}" "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" \
+		|| die
 }

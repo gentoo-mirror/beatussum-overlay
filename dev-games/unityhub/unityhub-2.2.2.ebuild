@@ -38,14 +38,11 @@ src_prepare() {
 
 src_install() {
 	local -r dir="/opt/${PN}"
-	local -r bin="${dir}/${PN}"
 
-	insinto "${dir}"
-	doins -r squashfs-root/*
+	# To avoid changing permissions
+	cp -r squashfs-root/* "${dir}"
 
-	fperms +x "${bin}"
-
-	make_wrapper "${PN}" "${bin}" "" "${dir}:${dir}/usr/lib"
+	make_wrapper "${PN}" "${dir}/${PN}" "" "${dir}:${dir}/usr/lib"
 	doicon -s 48 "squashfs-root/usr/share/icons/hicolor/48x48/apps/${PN}.png"
 	domenu "${T}/${PN}.desktop"
 }

@@ -23,6 +23,6 @@ RESTRICT="bindist primaryuri strip test"
 BDEPEND="$(unity-plugins_src_uri_depends)"
 
 src_install() {
-	insinto "/opt/${UNITY_INS}/Editor/Data"
-	doins -r *
+	# To avoid changing permissions
+	cp -r * "/opt/${UNITY_INS}/Editor/Data" || die
 }
