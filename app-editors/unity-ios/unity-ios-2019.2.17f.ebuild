@@ -28,6 +28,8 @@ QA_PREBUILT="*"
 CHECKREQS_DISK_BUILD="3400M"
 
 src_install() {
+	# To avoid changing permissions
+	insopts ""
 	insinto "/opt/${UNITY_INS}"
 	doins -r "${P}"/*
 }

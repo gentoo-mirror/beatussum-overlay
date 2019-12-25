@@ -26,6 +26,8 @@ S="${WORKDIR}"
 QA_PREBUILT="*"
 
 src_install() {
+	# To avoid changing permissions
+	insopts ""
 	insinto "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines"
 	mv "${P}" MacStandaloneSupport || die
 	doins -r MacStandaloneSupport

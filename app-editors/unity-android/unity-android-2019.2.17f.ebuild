@@ -33,6 +33,8 @@ QA_PREBUILT="*"
 CHECKREQS_DISK_BUILD="1800M"
 
 src_install() {
+	# To avoid changing permissions
+	insopts ""
 	insinto "/opt/${UNITY_INS}/Editor/Data/PlaybackEngines"
 	mv "${P}" AndroidPlayer || die
 	doins -r AndroidPlayer
