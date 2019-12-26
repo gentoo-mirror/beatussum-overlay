@@ -9,7 +9,6 @@ app-editors/unity:mac - Enable Mac Standalone target support
 app-editors/unity:webgl - Enable WebGL target support
 app-editors/unity:windows - Enable Windows Standalone target support
 sys-process/cpu-x:bandwidth - Integrate bandwidth (recommended)
-sys-process/cpu-x:check-update - Automatically check whether the program is up to date
 sys-process/cpu-x:dmidecode - Integrate dmidecode (recommended)
 sys-process/cpu-x:force-libstatgrab - Use sys-libs/libstatgrab to instead of sys-process/procps
 sys-process/cpu-x:libcpuid - Use the sys-libs/libcpuid library
