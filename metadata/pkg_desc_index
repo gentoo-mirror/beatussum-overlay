@@ -1,11 +1,11 @@
-app-editors/unity 2019.2.17f-r3: Editor to create games on the Unity engine
-app-editors/unity-android 2019.2.17f: A Unity plugin for developing on the Android platform
-app-editors/unity-doc 2019.2.17f: Documentation for Unity Editor
-app-editors/unity-facebook 2019.2.17f: A Unity plugin for developing on the Facebook platform
-app-editors/unity-ios 2019.2.17f: A Unity plugin for developing on the iOS platform
-app-editors/unity-mac 2019.2.17f: A Unity plugin for developing on the macOS platform
-app-editors/unity-webgl 2019.2.17f: A Unity plugin for developing on the WebGL platform
-app-editors/unity-windows 2019.2.17f: A Unity plugin for developing on the Android platform
+app-editors/unity 2018.4.14f 2019.2.17f-r3: Editor to create games on the Unity engine
+app-editors/unity-android 2018.4.14f 2019.2.17f: A Unity plugin for developing on the Android platform
+app-editors/unity-doc 2018.4.14f 2019.2.17f: Documentation for Unity Editor
+app-editors/unity-facebook 2018.4.14f 2019.2.17f: A Unity plugin for developing on the Facebook platform
+app-editors/unity-ios 2018.4.14f 2019.2.17f: A Unity plugin for developing on the iOS platform
+app-editors/unity-mac 2018.4.14f 2019.2.17f: A Unity plugin for developing on the macOS platform
+app-editors/unity-webgl 2018.4.14f 2019.2.17f: A Unity plugin for developing on the WebGL platform
+app-editors/unity-windows 2018.4.14f 2019.2.17f: A Unity plugin for developing on the Android platform
 app-shells/grmlzshrc 0.16.0: Grmls core configuration files for zsh
 app-shells/zsh-autosuggestions 0.6.3: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.1 1.0.2: ZSH port of Fish history search (up arrow)
