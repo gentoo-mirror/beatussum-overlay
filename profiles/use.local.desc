@@ -12,10 +12,8 @@ sys-process/cpu-x:bandwidth - Integrate bandwidth (recommended)
 sys-process/cpu-x:check-update - Automatically check whether the program is up to date
 sys-process/cpu-x:dmidecode - Integrate dmidecode (recommended)
 sys-process/cpu-x:force-libstatgrab - Use sys-libs/libstatgrab to instead of sys-process/procps
-sys-process/cpu-x:ignore-staticlibs - Build portable binary without static libraries
 sys-process/cpu-x:libcpuid - Use the sys-libs/libcpuid library
 sys-process/cpu-x:libpci - Use the sys-apps/pciutils library
-sys-process/cpu-x:portable - Build a all-in-one binary (portable version)
 x11-themes/arc-kde:aurorae - Intall the Aurorae themes
 x11-themes/arc-kde:color-schemes - Install the Plasma color schemes
 x11-themes/arc-kde:konsole - Install the kde-apps/konsole color schemes
