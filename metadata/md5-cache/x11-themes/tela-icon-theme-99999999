@@ -9,5 +9,5 @@ LICENSE=GPL-3+
 PROPERTIES=live
 REQUIRED_USE=|| ( standard black blue brown green grey orange pink purple red yellow manjaro ubuntu )
 SLOT=0
-_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=18578df7baf225a3ea41a6f6e941356d
