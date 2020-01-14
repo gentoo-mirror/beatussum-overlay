@@ -2,12 +2,12 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-editors/unity:android - Enable Android target support
-app-editors/unity:facebook - Enable Facebook games target support
-app-editors/unity:ios - Enable iOS target support
-app-editors/unity:mac - Enable Mac Standalone target support
-app-editors/unity:webgl - Enable WebGL target support
-app-editors/unity:windows - Enable Windows Standalone target support
+dev-games/unity:android - Enable Android target support
+dev-games/unity:facebook - Enable Facebook games target support
+dev-games/unity:ios - Enable iOS target support
+dev-games/unity:mac - Enable Mac Standalone target support
+dev-games/unity:webgl - Enable WebGL target support
+dev-games/unity:windows - Enable Windows Standalone target support
 sys-process/cpu-x:bandwidth - Integrate bandwidth (recommended)
 sys-process/cpu-x:dmidecode - Integrate dmidecode (recommended)
 sys-process/cpu-x:force-libstatgrab - Use sys-libs/libstatgrab to instead of sys-process/procps
