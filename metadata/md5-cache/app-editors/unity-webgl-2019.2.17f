@@ -9,5 +9,5 @@ RDEPEND=net-libs/nodejs[npm] virtual/ffmpeg virtual/jre ~app-editors/unity-2019.
 RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/LinuxEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2019.2.17f1.tar.xz -> unity-webgl-2019.2.17f.tar.xz
-_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	3ea239d48f936e51ab9dba4a39565741	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=85538b774de766554dad26bc93d44077
+_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	ee601d86ed2ca7c920b19fb9dd000a63	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=31d96031052fb2e2630986813de25835

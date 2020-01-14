@@ -10,4 +10,4 @@ REQUIRED_USE=|| ( standard white )
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/keeferrourke/capitaine-cursors/archive/r3.tar.gz -> capitaine-xcursors-3.tar.gz
-_md5_=162f98bd81f24ffa5c01dfb951a213ee
+_md5_=ebfaa980751c67a6ea3ff04f0d949c37

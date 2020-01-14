@@ -9,5 +9,5 @@ RDEPEND=~app-editors/unity-2018.4.14f
 RESTRICT=bindist primaryuri strip test
 SLOT=lts-2018
 SRC_URI=https://beta.unity3d.com/download/05119b33d0b7/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2018.4.14f1.pkg -> unity-windows-2018.4.14f.pkg
-_eclasses_=unity-plugins	3ea239d48f936e51ab9dba4a39565741	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=65c67742faa2d2139be1cbb6a42e04ed
+_eclasses_=unity-plugins	ee601d86ed2ca7c920b19fb9dd000a63	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=d818e2659d181dd747912722581c6e7c

@@ -12,4 +12,4 @@ RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/vinceliuice/Tela-icon-theme/archive/2019-09-29.tar.gz -> tela-icon-theme-20190929.tar.gz
 _eclasses_=xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=d4e3912d27d30a9f2fd43d9bd4c7fd86
+_md5_=455b92f4872fee4bde4bbc2558b66ef2

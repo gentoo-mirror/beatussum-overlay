@@ -11,7 +11,7 @@ app-shells/zsh-autosuggestions 0.6.3: Fish-like fast/unobtrusive autosuggestions
 app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.6.0: Fish shell like syntax highlighting for Zsh
 dev-games/unityhub 2.2.2-r1: A tool to manage your Unity Projects and installations
-sys-apps/save-backlight 1.0.2: An OpenRC service for restoring the last brightness level on reboot
+sys-apps/save-backlight 1.1.0: An OpenRC service for restoring the last brightness level on reboot
 sys-libs/libcpuid 0.4.1 0.4.1-r1: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 3.2.4-r2 9999-r2: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization

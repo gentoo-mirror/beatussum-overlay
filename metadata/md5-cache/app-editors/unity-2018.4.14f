@@ -13,4 +13,4 @@ RESTRICT=bindist primaryuri strip test
 SLOT=lts-2018
 SRC_URI=https://beta.unity3d.com/download/05119b33d0b7/LinuxEditorInstaller/Unity.tar.xz -> unity-2018.4.14f.tar.xz
 _eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=078523bf7b8aade104a4771aa4fe79d1
+_md5_=c5e642c597309131578133fd833afb4b

@@ -9,5 +9,5 @@ RDEPEND=dev-util/android-sdk-update-manager virtual/jdk ~app-editors/unity-2018.
 RESTRICT=bindist primaryuri strip test
 SLOT=lts-2018
 SRC_URI=https://beta.unity3d.com/download/05119b33d0b7/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2018.4.14f1.pkg -> unity-android-2018.4.14f.pkg
-_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	3ea239d48f936e51ab9dba4a39565741	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=ab08c9925c4ee46a9ce0f63b6354094a
+_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	ee601d86ed2ca7c920b19fb9dd000a63	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=c9e052d957fa8091401cfb75ff7298f1

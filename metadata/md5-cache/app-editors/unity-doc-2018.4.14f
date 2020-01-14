@@ -9,5 +9,5 @@ RDEPEND=~app-editors/unity-2018.4.14f
 RESTRICT=bindist primaryuri strip test
 SLOT=lts-2018
 SRC_URI=https://beta.unity3d.com/download/05119b33d0b7/MacDocumentationInstaller/Documentation.pkg -> unity-doc-2018.4.14f.pkg
-_eclasses_=unity-plugins	3ea239d48f936e51ab9dba4a39565741	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=1846b59282ae5a07fc7ca9ecea9de379
+_eclasses_=unity-plugins	ee601d86ed2ca7c920b19fb9dd000a63	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=b19a49343b74b38318d13da0a3a4660d

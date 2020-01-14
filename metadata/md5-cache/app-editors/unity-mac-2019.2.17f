@@ -9,5 +9,5 @@ RDEPEND=~app-editors/unity-2019.2.17f
 RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/MacEditorTargetInstaller/UnitySetup-Mac-Mono-Support-for-Editor-2019.2.17f1.pkg -> unity-mac-2019.2.17f.pkg
-_eclasses_=unity-plugins	3ea239d48f936e51ab9dba4a39565741	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
-_md5_=b8af36a411de8600a29d1f7b87c2b037
+_eclasses_=unity-plugins	ee601d86ed2ca7c920b19fb9dd000a63	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_md5_=570d07ef5c663632deec311f69fa788e

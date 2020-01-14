@@ -9,4 +9,4 @@ RDEPEND=>app-shells/zsh-4.3.11
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-syntax-highlighting/archive/0.6.0.tar.gz -> zsh-syntax-highlighting-0.6.0.tar.gz
-_md5_=2b53a7c7deb282e0eb9778afa7b5d4f2
+_md5_=1d394c089d8c557ddc049b9113ffad68
