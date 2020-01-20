@@ -11,7 +11,7 @@ dev-games/unity-mac 2018.4.14f 2019.2.17f: A Unity plugin for developing on the 
 dev-games/unity-webgl 2018.4.14f 2019.2.17f: A Unity plugin for developing on the WebGL platform
 dev-games/unity-windows 2018.4.14f 2019.2.17f: A Unity plugin for developing on the Android platform
 dev-games/unityhub 2.2.2-r1: A tool to manage your Unity Projects and installations
-net-im/discord 0.0.9: All-in-one voice and text chat for gamers
+net-im/discord 0.0.9-r1: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.0: An OpenRC service for restoring the last brightness level on reboot
 sys-libs/libcpuid 0.4.1 0.4.1-r1: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 3.2.4-r2 9999-r2: A Free software that gathers information on CPU, motherboard and more
