@@ -9,5 +9,5 @@ RDEPEND=~dev-games/unity-2019.2.17f
 RESTRICT=bindist primaryuri strip test
 SLOT=2019
 SRC_URI=https://beta.unity3d.com/download/8e603399ca02/LinuxEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2019.2.17f1.tar.xz -> unity-ios-2019.2.17f.tar.xz
-_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	76ec66d91e57eb2f4e3beb11fbc84c5b	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_eclasses_=check-reqs	7e3fd1855a5e1b50bb9e80827b3f672d	unity-plugins	76ec66d91e57eb2f4e3beb11fbc84c5b	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
 _md5_=401759469f94d32b309dad8281ca8597

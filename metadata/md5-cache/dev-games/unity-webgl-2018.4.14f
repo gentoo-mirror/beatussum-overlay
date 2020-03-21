@@ -9,5 +9,5 @@ RDEPEND=net-libs/nodejs[npm] virtual/ffmpeg virtual/jre ~dev-games/unity-2018.4.
 RESTRICT=bindist primaryuri strip test
 SLOT=lts-2018
 SRC_URI=https://beta.unity3d.com/download/05119b33d0b7/LinuxEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2018.4.14f1.tar.xz -> unity-webgl-2018.4.14f.tar.xz
-_eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	unity-plugins	76ec66d91e57eb2f4e3beb11fbc84c5b	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
+_eclasses_=check-reqs	7e3fd1855a5e1b50bb9e80827b3f672d	unity-plugins	76ec66d91e57eb2f4e3beb11fbc84c5b	unpacker	3cd8bad0d31e525cd26be1bfa4e61631
 _md5_=1dd973efb9fbc45bb13dc17fd01af03a
