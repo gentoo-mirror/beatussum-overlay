@@ -15,8 +15,14 @@ x11-themes/arc-kde:kvantum - Install the x11-themes/kvantum themes
 x11-themes/arc-kde:plasma - Install the Plasma desktop themes and look-and-feel settings
 x11-themes/arc-kde:wallpapers - Install the wallpapers
 x11-themes/arc-kde:yakuake - Install the kde-misc/yakuake skins
-x11-themes/capitaine-xcursors:standard - Install the standard theme cursors
-x11-themes/capitaine-xcursors:white - Install the white theme cursors
+x11-themes/capitaine-xcursors:dark - Install the dark theme cursors
+x11-themes/capitaine-xcursors:hd - The max DPI to render is HDPI
+x11-themes/capitaine-xcursors:light - Install the light theme cursors
+x11-themes/capitaine-xcursors:lo - The max DPI to render is LODPI
+x11-themes/capitaine-xcursors:tv - The max DPI to render is TVDPI
+x11-themes/capitaine-xcursors:xhd - The max DPI to render is XHDPI
+x11-themes/capitaine-xcursors:xxhd - The max DPI to render is XXHDPI
+x11-themes/capitaine-xcursors:xxxhd - The max DPI to render is XXXHDPI
 x11-themes/tela-icon-theme:black - Install the black color folder version
 x11-themes/tela-icon-theme:blue - Install the blue color folder version
 x11-themes/tela-icon-theme:brown - Install the brown color folder version

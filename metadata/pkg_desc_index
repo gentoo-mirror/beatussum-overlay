@@ -8,5 +8,5 @@ sys-apps/save-backlight 1.1.0: An OpenRC service for restoring the last brightne
 sys-libs/libcpuid 0.4.1 0.4.1-r1: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 3.2.4-r2 9999-r2: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization
-x11-themes/capitaine-xcursors 3: An x-cursor theme inspired by macOS and based on KDE Breeze
+x11-themes/capitaine-xcursors 4: An x-cursor theme inspired by macOS and based on KDE Breeze
 x11-themes/tela-icon-theme 20200221 99999999: A flat colorful Design icon theme
