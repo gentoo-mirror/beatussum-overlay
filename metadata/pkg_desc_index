@@ -2,6 +2,7 @@ app-shells/grmlzshrc 0.16.0 0.16.1: Grmls core configuration files for zsh
 app-shells/zsh-autosuggestions 0.6.3 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.6.0 0.7.1: Fish shell like syntax highlighting for Zsh
+games-action/minecraft-launcher 2.1.13509: Minecraft's official launcher
 games-server/minecraft-server 1.15.1-r1 1.15.2-r1: The official server for the sandbox video game
 net-im/discord 0.0.10-r1: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.0: An OpenRC service for restoring the last brightness level on reboot
