@@ -7,11 +7,11 @@ inherit readme.gentoo-r1 java-pkg-2
 
 DESCRIPTION="The official server for the sandbox video game"
 HOMEPAGE="https://www.minecraft.net/"
-MY_EGIT_COMMIT="4d1826eebac84847c71a77f9349cc22afd0cf0a1"
+MY_EGIT_COMMIT="7361a24df069a06748844cc7483c35d4abd2d80c"
 SRC_URI="https://launcher.mojang.com/v1/objects/${MY_EGIT_COMMIT}/server.jar -> ${P}.jar"
 LICENSE="Mojang"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~x86"
 RESTRICT="bindist mirror"
 
 RDEPEND="
