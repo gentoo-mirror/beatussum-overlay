@@ -1,6 +1,5 @@
 BDEPEND=dev-util/gtk-update-icon-cache
-DEFINED_PHASES=install postinst postrm preinst prepare
-DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DEFINED_PHASES=install postrm
 DESCRIPTION=A flat colorful Design icon theme
 EAPI=7
 HOMEPAGE=https://www.pling.com/p/1279924/
@@ -10,6 +9,6 @@ LICENSE=GPL-3+
 REQUIRED_USE=|| ( standard black blue brown green grey orange pink purple red yellow manjaro ubuntu )
 RESTRICT=primaryuri
 SLOT=0
-SRC_URI=https://github.com/vinceliuice/Tela-icon-theme/archive/2020-05-12.tar.gz -> tela-icon-theme-20200512.tar.gz
-_eclasses_=xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=da5eba05f61ab06e988e598720d46986
+SRC_URI=https://github.com/vinceliuice/Tela-icon-theme/archive/2020-06-25.tar.gz -> tela-icon-theme-20200625.tar.gz
+_eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=3ea78fd8cf61d3e5f46ab9ecb21aba71
