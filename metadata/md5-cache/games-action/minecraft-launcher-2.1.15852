@@ -8,6 +8,6 @@ LICENSE=Mojang
 RDEPEND=dev-libs/libbsd dev-libs/nss gnome-base/gconf media-libs/alsa-lib net-libs/gnutls[idn] x11-libs/gtk+:2[cups] x11-libs/gtk+:3[cups,X] x11-libs/libXScrnSaver virtual/jre narrator? ( app-accessibility/flite )
 RESTRICT=bindist mirror strip
 SLOT=0
-SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_2.1.15629.tar.gz -> minecraft-launcher-2.1.15629.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
+SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_2.1.15852.tar.gz -> minecraft-launcher-2.1.15852.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	eutils	fcb2aa98e1948b835b5ae66ca52868c5
 _md5_=ee84036fda7871b92fe3d5809bf5c39b
