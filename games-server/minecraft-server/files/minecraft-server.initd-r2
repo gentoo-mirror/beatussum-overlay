@@ -28,7 +28,7 @@ _ln() {
 	local -r target="${minecraft_logs_instance}/$1"
 	local -r name="${minecraft_path_instance}/$2"
 
-	ln -frs "${target%/.}" "${name}" || return $?
+	ln -fnrs "${target%/.}" "${name}" || return $?
 	chown -h "${command_user}:${command_group}" "${name}" || return $?
 }
 
