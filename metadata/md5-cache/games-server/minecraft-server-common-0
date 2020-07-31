@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=Common files for multiple slots of games-server/minecraft-server
+EAPI=7
+HOMEPAGE=https://www.minecraft.net/
+KEYWORDS=~amd64
+LICENSE=Mojang
+RDEPEND=games-server/minecraft-server virtual/tmpfiles
+SLOT=0
+_eclasses_=tmpfiles	6170dc7770585fb3f16efdee789a3218
+_md5_=7304731647dd18934695ed048e717b17
