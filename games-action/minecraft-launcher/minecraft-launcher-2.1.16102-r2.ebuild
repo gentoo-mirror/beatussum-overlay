@@ -53,6 +53,7 @@ RDEPEND="
 "
 
 S="${WORKDIR}/${PN}"
+
 MY_WRAPPER="${PN}-r1"
 
 src_prepare() {
@@ -67,10 +68,12 @@ src_install() {
 	local -r dir="/opt/${PN}"
 
 	dodir "${dir}"
-	cp -ar * "${ED}/${dir}" || die
-	doicon -s scalable "${DISTDIR}/${PN}.svg"
+	cp -a * "${ED}/${dir}" || die
 
-	newbin "${T}/${MY_WRAPPER}" "${PN}"
+	exeinto /opt/bin
+	newexe "${T}/${MY_WRAPPER}" "${PN}"
+
+	doicon -s scalable "${DISTDIR}/${PN}.svg"
 	make_desktop_entry "${PN}" "Minecraft launcher" "${PN}" \
 		"Game;ActionGame;AdventureGame;Java" \
 		"StartupWMClass=minecraft-launcher"
