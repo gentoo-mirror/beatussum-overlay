@@ -9,6 +9,6 @@ LICENSE=Discord-TOS
 RDEPEND=app-accessibility/at-spi2-atk:2 app-accessibility/at-spi2-core:2 dev-libs/atk dev-libs/expat dev-libs/glib:2[dbus] dev-libs/nspr dev-libs/nss media-libs/alsa-lib net-print/cups sys-apps/dbus x11-libs/cairo x11-libs/gdk-pixbuf:2 x11-libs/gtk+:3[X,cups] x11-libs/libX11 x11-libs/libxcb:* x11-libs/libXcomposite x11-libs/libXcursor x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libXi x11-libs/libXrandr x11-libs/libXrender x11-libs/libXScrnSaver x11-libs/libXtst x11-libs/pango ayatana? ( dev-libs/libappindicator:3 )
 RESTRICT=bindist mirror strip
 SLOT=0
-SRC_URI=https://dl.discordapp.net/apps/linux/0.0.10/discord-0.0.10.tar.gz
+SRC_URI=https://dl.discordapp.net/apps/linux/0.0.11/discord-0.0.11.tar.gz
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=1394deec5b3cecf859312a841d294d71
