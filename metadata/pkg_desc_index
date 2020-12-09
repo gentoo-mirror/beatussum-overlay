@@ -2,16 +2,16 @@ app-shells/grmlzshrc 0.17.4: Grmls core configuration files for zsh
 app-shells/zsh-autosuggestions 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.7.1: Fish shell like syntax highlighting for Zsh
-dev-cpp/finalcut 0.6.0-r3: A text-based widget toolkit
+dev-cpp/finalcut 0.7.1: A text-based widget toolkit
 dev-cpp/gbenchmark 1.5.2-r1: A microbenchmark support library
-games-action/minecraft-launcher 2.1.17627: Minecraft's official launcher
+games-action/minecraft-launcher 2.2.909: Minecraft's official launcher
 games-server/minecraft-server 1.15.1-r2 1.15.2-r2 1.16-r1 1.16.1-r1 1.16.3: The official server for the sandbox video game
 games-server/minecraft-server-common 0: Common files for multiple slots of games-server/minecraft-server
-net-im/discord 0.0.12: All-in-one voice and text chat for gamers
+net-im/discord 0.0.13: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.1: An OpenRC service for restoring the last brightness level on reboot
-sys-block/zram-init 10.5 9999-r1: Scripts to support compressed swap devices or ramdisks with zRAM
+sys-block/zram-init 10.9 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 sys-libs/libcpuid 0.5.0-r2: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 4.0.1-r3 9999-r6: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization
 x11-themes/capitaine-xcursors 4: An x-cursor theme inspired by macOS and based on KDE Breeze
-x11-themes/tela-icon-theme 20200625 99999999-r1: A flat colorful Design icon theme
+x11-themes/tela-icon-theme 20201011 99999999-r1: A flat colorful Design icon theme
