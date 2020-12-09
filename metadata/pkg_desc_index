@@ -11,7 +11,7 @@ net-im/discord 0.0.13: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.1: An OpenRC service for restoring the last brightness level on reboot
 sys-block/zram-init 10.9 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 sys-libs/libcpuid 0.5.0-r2: A small C library for x86 (and x86_64) CPU detection and feature extraction
-sys-process/cpu-x 4.0.1-r3 9999-r6: A Free software that gathers information on CPU, motherboard and more
+sys-process/cpu-x 4.0.1-r3 9999: A Free software that gathers information on CPU, motherboard and more
 x11-themes/arc-kde 20180614: Arc KDE customization
 x11-themes/capitaine-xcursors 4: An x-cursor theme inspired by macOS and based on KDE Breeze
-x11-themes/tela-icon-theme 20201011 99999999-r1: A flat colorful Design icon theme
+x11-themes/tela-icon-theme 20201011 99999999: A flat colorful Design icon theme
