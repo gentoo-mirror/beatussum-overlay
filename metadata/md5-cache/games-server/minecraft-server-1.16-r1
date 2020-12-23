@@ -9,5 +9,5 @@ RDEPEND=acct-group/minecraft acct-user/minecraft app-misc/dtach games-server/min
 RESTRICT=bindist mirror
 SLOT=1.16
 SRC_URI=https://launcher.mojang.com/v1/objects/7361a24df069a06748844cc7483c35d4abd2d80c/server.jar -> minecraft-server-1.16.jar
-_eclasses_=java-utils-2	45ae8c4aaec3924d533052387ad652dc	prefix	c2993e4c430c1ee24f278983d6189501	readme.gentoo-r1	22ae82e140bdd95d17a34fd5fd733190
+_eclasses_=java-utils-2	45ae8c4aaec3924d533052387ad652dc	prefix	de7d8e2b10085ed5ff09ad70e4753e5c	readme.gentoo-r1	22ae82e140bdd95d17a34fd5fd733190
 _md5_=bce8e1a192faef1b9515821cbe1fe2a5
