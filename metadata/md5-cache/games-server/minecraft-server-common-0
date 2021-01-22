@@ -7,4 +7,4 @@ LICENSE=Mojang
 RDEPEND=games-server/minecraft-server virtual/tmpfiles
 SLOT=0
 _eclasses_=tmpfiles	6170dc7770585fb3f16efdee789a3218
-_md5_=7304731647dd18934695ed048e717b17
+_md5_=17a45ba0113fcdc765aefc69f4d98ea8

@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=app-shells/zsh
 RESTRICT=primaryuri
 SLOT=0
-SRC_URI=https://github.com/grml/grml-etc-core/archive/v0.17.4.tar.gz -> grmlzshrc-0.17.4.tar.gz
-_md5_=60cb904862a8709a5ecff4e5f3fc7617
+SRC_URI=https://github.com/grml/grml-etc-core/archive/v0.18.0.tar.gz -> grmlzshrc-0.18.0.tar.gz
+_md5_=7074d66acc060ef6acbf75964a25e05a

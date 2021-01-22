@@ -10,4 +10,4 @@ REQUIRED_USE=^^ ( lo tv hd xhd xxhd xxxhd ) ^^ ( dark light )
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/keeferrourke/capitaine-cursors/archive/r4.tar.gz -> capitaine-xcursors-4.tar.gz
-_md5_=3246efc714b61f81d480c2bba0e4e765
+_md5_=5161a6236095cb960e6d96ef9a42baf1
