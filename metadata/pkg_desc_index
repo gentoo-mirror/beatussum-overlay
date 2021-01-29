@@ -6,7 +6,7 @@ dev-cpp/finalcut 0.7.1: A text-based widget toolkit
 dev-cpp/gbenchmark 1.5.2-r1: A microbenchmark support library
 dev-db/sqlitebrowser 3.12.1 9999: A light GUI editor for SQLite databases
 games-action/minecraft-launcher 2.2.1441: Minecraft's official launcher
-games-server/minecraft-server 1.15.1-r2 1.15.2-r2 1.16-r1 1.16.1-r1 1.16.3: The official server for the sandbox video game
+games-server/minecraft-server 1.15.1-r2 1.15.2-r2 1.16-r1 1.16.1-r1 1.16.3 1.16.5: The official server for the sandbox video game
 games-server/minecraft-server-common 0: Common files for multiple slots of games-server/minecraft-server
 net-im/discord 0.0.13-r1: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.1: An OpenRC service for restoring the last brightness level on reboot
