@@ -10,5 +10,5 @@ RDEPEND=dev-libs/atk dev-libs/expat dev-libs/glib:2[dbus] dev-libs/nspr dev-libs
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_2.2.1441.tar.gz -> minecraft-launcher-2.2.1441.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	prefix	de7d8e2b10085ed5ff09ad70e4753e5c	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	prefix	de7d8e2b10085ed5ff09ad70e4753e5c	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=1db539b59ae4945ba60127457c26ef9e
