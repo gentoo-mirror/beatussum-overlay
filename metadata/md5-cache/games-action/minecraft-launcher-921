@@ -1,0 +1,14 @@
+DEFINED_PHASES=install
+DESCRIPTION=Minecraft's official launcher
+EAPI=7
+HOMEPAGE=https://www.minecraft.net/
+INHERIT=desktop eutils prefix
+IUSE=narrator
+KEYWORDS=-* ~amd64
+LICENSE=Mojang
+RDEPEND=app-accessibility/at-spi2-atk:2 app-accessibility/at-spi2-core:2 dev-libs/atk dev-libs/expat dev-libs/glib:2 dev-libs/nspr dev-libs/nss media-libs/alsa-lib media-libs/mesa net-print/cups sys-apps/dbus x11-libs/gdk-pixbuf:2 x11-libs/gtk+:3[X] x11-libs/libdrm x11-libs/libX11 x11-libs/libxcb:* x11-libs/libXcomposite x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libXrandr x11-libs/pango narrator? ( app-accessibility/flite )
+RESTRICT=bindist mirror strip
+SLOT=0
+SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_921.tar.gz -> minecraft-launcher-921.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	prefix	de7d8e2b10085ed5ff09ad70e4753e5c
+_md5_=a6aa980ed63b98fb0870722d314d21ee
