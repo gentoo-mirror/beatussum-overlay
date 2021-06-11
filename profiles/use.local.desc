@@ -5,6 +5,7 @@
 dev-cpp/finalcut:newfont - Install a graphical text font for X11 and the Linux console
 dev-cpp/gbenchmark:default-libcxx - Use sys-libs/libcxx instead of libstdc++ as the default stdlib
 dev-cpp/gbenchmark:exceptions - Enable the use of exceptions in the benchmark library
+dev-cpp/gbenchmark:libpfm - Enable dev-libs/libpfm support
 dev-cpp/gbenchmark:lto - Enable Link Time Optimization (LTO)
 dev-cpp/gbenchmark:tools - Install some additional Python tools
 games-action/minecraft-launcher:narrator - Enable support for narrator
