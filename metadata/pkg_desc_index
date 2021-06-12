@@ -3,7 +3,7 @@ app-shells/zsh-autosuggestions 0.6.4: Fish-like fast/unobtrusive autosuggestions
 app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.7.1: Fish shell like syntax highlighting for Zsh
 dev-cpp/finalcut 0.7.1: A text-based widget toolkit
-dev-cpp/gbenchmark 1.5.4: A microbenchmark support library
+dev-cpp/gbenchmark 1.5.5: A microbenchmark support library
 dev-db/sqlitebrowser 3.12.2 9999: A light GUI editor for SQLite databases
 games-action/minecraft-launcher 2.2.1441 921: Minecraft's official launcher
 net-im/discord 0.0.15: All-in-one voice and text chat for gamers
