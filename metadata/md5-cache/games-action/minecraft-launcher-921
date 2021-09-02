@@ -11,5 +11,5 @@ RDEPEND=app-accessibility/at-spi2-atk:2 app-accessibility/at-spi2-core:2 dev-lib
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_921.tar.gz -> minecraft-launcher-921.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	e73b9df80596ab8f9c542c01196dec23
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	6024fbc93167fad782e2032933654857
 _md5_=b20094230a65f21411f2c8041bbd4133
