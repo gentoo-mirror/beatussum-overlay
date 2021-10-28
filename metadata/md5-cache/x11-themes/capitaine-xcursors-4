@@ -1,7 +1,7 @@
 BDEPEND=>=media-gfx/inkscape-1 x11-apps/xcursorgen
 DEFINED_PHASES=compile install prepare
 DESCRIPTION=An x-cursor theme inspired by macOS and based on KDE Breeze
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/keeferrourke/capitaine-cursors/
 IUSE=lo +tv hd xhd xxhd xxxhd +dark light
 KEYWORDS=~amd64
@@ -10,4 +10,4 @@ REQUIRED_USE=^^ ( lo tv hd xhd xxhd xxxhd ) ^^ ( dark light )
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=https://github.com/keeferrourke/capitaine-cursors/archive/r4.tar.gz -> capitaine-xcursors-4.tar.gz
-_md5_=5161a6236095cb960e6d96ef9a42baf1
+_md5_=bf0abe510e9cb2532f5c68f822609315
