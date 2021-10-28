@@ -12,4 +12,4 @@ RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://dl.discordapp.net/apps/linux/0.0.16/discord-0.0.16.tar.gz
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	linux-info	6b67971d8a0a029d13181f2cfb9f5fa9	optfeature	30ce9dec2b8943338c9b015bd32bac6a	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	6024fbc93167fad782e2032933654857
-_md5_=a61d4fbe5c031ce8b0ba5afea9c25feb
+_md5_=ea58fddfee3d91e101b5a5906f1ab0c0
