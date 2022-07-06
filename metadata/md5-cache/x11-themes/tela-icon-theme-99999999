@@ -11,4 +11,4 @@ PROPERTIES=live
 REQUIRED_USE=|| ( standard black blue brown green grey orange pink purple red yellow manjaro ubuntu )
 SLOT=0
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
-_md5_=07e1e13820fd3c552c9a19ac1914a633
+_md5_=f67fe1b4719d4552ebfc4b2c17acbbfd

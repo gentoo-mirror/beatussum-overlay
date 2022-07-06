@@ -9,6 +9,6 @@ LICENSE=Mojang
 RDEPEND=>=app-accessibility/at-spi2-atk-2.9.90:2 >=app-accessibility/at-spi2-core-2.9.90:2 app-accessibility/orca app-crypt/libsecret >=dev-libs/atk-2.2.0 >=dev-libs/expat-2.0.1 >=dev-libs/glib-2.39.4:2 >=dev-libs/nspr-4.9.2 >=dev-libs/nss-3.22 >=media-libs/alsa-lib-1.0.23 >=media-libs/mesa-8.1 >=net-print/cups-1.4.0 >=sys-apps/dbus-1.5.12 virtual/secret-service >=x11-libs/gdk-pixbuf-2.22.0:2 >=x11-libs/gtk+-3.18.9:3 >=x11-libs/libdrm-2.4.38 >=x11-libs/libX11-1.4.99.1 >=x11-libs/libxcb-1.1:* >=x11-libs/libXcomposite-0.3 >=x11-libs/libXdamage-1.1 x11-libs/libXext x11-libs/libXfixes >=x11-libs/libXrandr-1.2.99.3 >=x11-libs/pango-1.14.0
 RESTRICT=bindist mirror
 SLOT=0
-SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_928.tar.gz -> minecraft-launcher-928.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
+SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_1.0.1221.tar.gz -> minecraft-launcher-1.0.1221.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
 _eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	optfeature	d524f291c80f9d21ad80fe978e3ca760	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
-_md5_=53844d19cf4b25908b90019caed1b8f6
+_md5_=d6601d86f4f9e9050a1607a9988c0845
