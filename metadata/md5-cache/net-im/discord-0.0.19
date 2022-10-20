@@ -10,5 +10,5 @@ RDEPEND=app-accessibility/at-spi2-atk:2 app-accessibility/at-spi2-core:2 dev-lib
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://dl.discordapp.net/apps/linux/0.0.19/discord-0.0.19.tar.gz
-_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	bbfa385d6907d7948d49a5e107bd654d	optfeature	1a2157392a869265b2afcb63a26c12ac	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	bbfa385d6907d7948d49a5e107bd654d	optfeature	1a2157392a869265b2afcb63a26c12ac	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
 _md5_=4debfec3f26d7fe9a2f693838523378d
