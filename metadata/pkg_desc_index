@@ -6,11 +6,11 @@ dev-cpp/finalcut 0.7.1: A text-based widget toolkit
 dev-cpp/gbenchmark 1.6.0: A microbenchmark support library
 dev-db/sqlitebrowser 3.12.2 9999: A light GUI editor for SQLite databases
 games-action/minecraft-launcher 1.0.1221: Minecraft's official launcher
-net-im/discord 0.0.19: All-in-one voice and text chat for gamers
+net-im/discord 0.0.22: All-in-one voice and text chat for gamers
 sys-apps/save-backlight 1.1.1: An OpenRC service for restoring the last brightness level on reboot
 sys-block/zram-init 11.1 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 sys-libs/libcpuid 0.5.1: A small C library for x86 (and x86_64) CPU detection and feature extraction
 sys-process/cpu-x 4.3.1 9999: A Free software that gathers information on CPU, motherboard and more
-x11-themes/arc-kde 20220706: Arc KDE customization
+x11-themes/arc-kde 20220908: Arc KDE customization
 x11-themes/capitaine-xcursors 4: An x-cursor theme inspired by macOS and based on KDE Breeze
 x11-themes/tela-icon-theme 20211008 99999999: A flat colorful Design icon theme

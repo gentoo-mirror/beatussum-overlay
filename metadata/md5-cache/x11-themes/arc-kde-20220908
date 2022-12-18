@@ -9,5 +9,5 @@ RDEPEND=kvantum? ( x11-themes/kvantum )
 REQUIRED_USE=|| ( aurorae color-schemes konsole konversation kvantum plasma wallpapers yakuake )
 RESTRICT=primaryuri
 SLOT=0
-SRC_URI=https://github.com/PapirusDevelopmentTeam/arc-kde/archive/20220706.tar.gz -> arc-kde-20220706.tar.gz
+SRC_URI=https://github.com/PapirusDevelopmentTeam/arc-kde/archive/20220908.tar.gz -> arc-kde-20220908.tar.gz
 _md5_=c9cb861f4c0bbcc7d8ba68c2de42f34a
