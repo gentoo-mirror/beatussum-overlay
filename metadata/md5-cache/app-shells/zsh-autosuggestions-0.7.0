@@ -10,4 +10,4 @@ RESTRICT=primaryuri test
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-autosuggestions/archive/v0.7.0.tar.gz -> zsh-autosuggestions-0.7.0.tar.gz
 _eclasses_=readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55
-_md5_=d206d20c6537fd460e59061f08c90674
+_md5_=6aedd14db834312f6a0bc00a4e5f43ed
