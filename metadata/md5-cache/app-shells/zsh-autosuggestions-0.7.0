@@ -6,8 +6,8 @@ INHERIT=readme.gentoo-r1
 KEYWORDS=~amd64
 LICENSE=MIT
 RDEPEND=>=app-shells/zsh-4.3.11
-RESTRICT=primaryuri test
+RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-autosuggestions/archive/v0.7.0.tar.gz -> zsh-autosuggestions-0.7.0.tar.gz
 _eclasses_=readme.gentoo-r1	204091a2cde6179cd9d3db26d09412d3
-_md5_=6aedd14db834312f6a0bc00a4e5f43ed
+_md5_=0711222efcd0d3bc096534ad5e372ab8
