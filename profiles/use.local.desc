@@ -22,7 +22,7 @@ x11-themes/arc-kde:konversation - Install the net-irc/konversation themes
 x11-themes/arc-kde:kvantum - Install the x11-themes/kvantum themes
 x11-themes/arc-kde:plasma - Install the Plasma desktop themes and look-and-feel settings
 x11-themes/arc-kde:wallpapers - Install the wallpapers
-x11-themes/arc-kde:yakuake - Install the kde-misc/yakuake skins
+x11-themes/arc-kde:yakuake - Install the kde-apps/yakuake skins
 x11-themes/capitaine-xcursors:dark - Install the dark theme cursors
 x11-themes/capitaine-xcursors:hd - The max DPI to render is HDPI
 x11-themes/capitaine-xcursors:light - Install the light theme cursors
