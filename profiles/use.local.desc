@@ -8,13 +8,13 @@ dev-cpp/gbenchmark:exceptions - Enable the use of exceptions in the benchmark li
 dev-cpp/gbenchmark:libpfm - Enable dev-libs/libpfm support
 dev-cpp/gbenchmark:lto - Enable Link Time Optimization (LTO)
 dev-cpp/gbenchmark:tools - Install some additional Python tools
-sys-process/cpu-x:bandwidth - Built-in bandwidth
-sys-process/cpu-x:dmidecode - Built-in dmidecode
-sys-process/cpu-x:force-libstatgrab - Force use of sys-libs/libstatgrab instead of sys-process/procps
-sys-process/cpu-x:libcpuid - Use the sys-libs/libcpuid library
-sys-process/cpu-x:libglfw - Use the media-libs/glfw library
-sys-process/cpu-x:opencl - Use the virtual/opencl library
-sys-process/cpu-x:pci - Use the sys-apps/pciutils library
+sys-apps/cpu-x:bandwidth - Built-in bandwidth
+sys-apps/cpu-x:dmidecode - Built-in dmidecode
+sys-apps/cpu-x:force-libstatgrab - Force use of sys-libs/libstatgrab instead of sys-process/procps
+sys-apps/cpu-x:libcpuid - Use the sys-libs/libcpuid library
+sys-apps/cpu-x:libglfw - Use the media-libs/glfw library
+sys-apps/cpu-x:opencl - Use the virtual/opencl library
+sys-apps/cpu-x:pci - Use the sys-apps/pciutils library
 x11-themes/arc-kde:aurorae - Intall the Aurorae themes
 x11-themes/arc-kde:color-schemes - Install the Plasma color schemes
 x11-themes/arc-kde:konsole - Install the kde-apps/konsole color schemes
@@ -34,9 +34,11 @@ x11-themes/capitaine-xcursors:xxxhd - The max DPI to render is XXXHDPI
 x11-themes/tela-icon-theme:black - Install the black color folder version
 x11-themes/tela-icon-theme:blue - Install the blue color folder version
 x11-themes/tela-icon-theme:brown - Install the brown color folder version
+x11-themes/tela-icon-theme:dracula - Install the dracula default color folder version
 x11-themes/tela-icon-theme:green - Install the green color folder version
 x11-themes/tela-icon-theme:grey - Install the grey color folder version
 x11-themes/tela-icon-theme:manjaro - Install the Manjaro default color folder version
+x11-themes/tela-icon-theme:nord - Install the "nord" color folder version
 x11-themes/tela-icon-theme:orange - Install the orange color folder version
 x11-themes/tela-icon-theme:pink - Install the pink color folder version
 x11-themes/tela-icon-theme:purple - Install the purple color folder version
