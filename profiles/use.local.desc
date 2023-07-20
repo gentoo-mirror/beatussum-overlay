@@ -31,18 +31,3 @@ x11-themes/capitaine-xcursors:tv - The max DPI to render is TVDPI
 x11-themes/capitaine-xcursors:xhd - The max DPI to render is XHDPI
 x11-themes/capitaine-xcursors:xxhd - The max DPI to render is XXHDPI
 x11-themes/capitaine-xcursors:xxxhd - The max DPI to render is XXXHDPI
-x11-themes/tela-icon-theme:black - Install the black color folder version
-x11-themes/tela-icon-theme:blue - Install the blue color folder version
-x11-themes/tela-icon-theme:brown - Install the brown color folder version
-x11-themes/tela-icon-theme:dracula - Install the dracula default color folder version
-x11-themes/tela-icon-theme:green - Install the green color folder version
-x11-themes/tela-icon-theme:grey - Install the grey color folder version
-x11-themes/tela-icon-theme:manjaro - Install the Manjaro default color folder version
-x11-themes/tela-icon-theme:nord - Install the "nord" color folder version
-x11-themes/tela-icon-theme:orange - Install the orange color folder version
-x11-themes/tela-icon-theme:pink - Install the pink color folder version
-x11-themes/tela-icon-theme:purple - Install the purple color folder version
-x11-themes/tela-icon-theme:red - Install the red color folder version
-x11-themes/tela-icon-theme:standard - Install the standard color folder version
-x11-themes/tela-icon-theme:ubuntu - Install the Ubuntu default color folder version
-x11-themes/tela-icon-theme:yellow - Install the yellow color folder version
