@@ -10,4 +10,4 @@ RDEPEND=>=app-shells/push-2.0 virtual/libintl || ( sys-apps/openrc sys-apps/syst
 RESTRICT=binchecks strip test
 SLOT=0
 _eclasses_=prefix	eab3c99d77fe00506c109c8a736186f7	readme.gentoo-r1	204091a2cde6179cd9d3db26d09412d3	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=8a68e315451427f1616e518b14e0674c
+_md5_=54777b2f11f5c11a4b9adc8bcb736122
