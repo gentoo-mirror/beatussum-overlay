@@ -12,4 +12,3 @@ sys-auth/libfprint-tod 1.94.7.1: Library to add support for consumer fingerprint
 sys-block/zram-init 11.1 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 x11-terms/cool-retro-term 1.2.0: Terminal emulator with an old school look and feel
 x11-themes/arc-kde 20220908: Arc KDE customization
-x11-themes/capitaine-xcursors 4: An x-cursor theme inspired by macOS and based on KDE Breeze
