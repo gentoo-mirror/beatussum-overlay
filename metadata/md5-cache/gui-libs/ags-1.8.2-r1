@@ -1,15 +1,15 @@
 BDEPEND=dev-lang/typescript dev-libs/gobject-introspection >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-libs/gjs dev-libs/glib:2 dev-libs/libffi:= dev-libs/libpcre2:= gui-libs/gtk-layer-shell media-libs/flac:= media-libs/libogg media-libs/libpulse media-libs/libsndfile media-libs/libvorbis media-libs/opus media-sound/lame media-sound/mpg123-base net-libs/libasyncns sys-apps/dbus sys-libs/glibc sys-libs/pam sys-libs/zlib x11-libs/gtk+:3 x11-libs/libXau x11-libs/libxcb:= x11-libs/libXdmcp
+DEPEND=dev-libs/gjs dev-libs/glib:2 dev-libs/libffi:= dev-libs/libpcre2:= gui-libs/gtk-layer-shell[introspection] media-libs/flac:= media-libs/libogg media-libs/libpulse media-libs/libsndfile media-libs/libvorbis media-libs/opus media-sound/lame media-sound/mpg123-base net-libs/libasyncns sys-apps/dbus sys-libs/glibc sys-libs/pam sys-libs/zlib x11-libs/gtk+:3 x11-libs/libXau x11-libs/libxcb:= x11-libs/libXdmcp
 DESCRIPTION=A customizable and extensible shell
 EAPI=8
 HOMEPAGE=https://aylur.github.io/ags-docs/
 INHERIT=meson
 KEYWORDS=~amd64
 LICENSE=GPL-3+
-RDEPEND=dev-libs/gjs dev-libs/glib:2 dev-libs/libffi:= dev-libs/libpcre2:= gui-libs/gtk-layer-shell media-libs/flac:= media-libs/libogg media-libs/libpulse media-libs/libsndfile media-libs/libvorbis media-libs/opus media-sound/lame media-sound/mpg123-base net-libs/libasyncns sys-apps/dbus sys-libs/glibc sys-libs/pam sys-libs/zlib x11-libs/gtk+:3 x11-libs/libXau x11-libs/libxcb:= x11-libs/libXdmcp
+RDEPEND=dev-libs/gjs dev-libs/glib:2 dev-libs/libffi:= dev-libs/libpcre2:= gui-libs/gtk-layer-shell[introspection] media-libs/flac:= media-libs/libogg media-libs/libpulse media-libs/libsndfile media-libs/libvorbis media-libs/opus media-sound/lame media-sound/mpg123-base net-libs/libasyncns sys-apps/dbus sys-libs/glibc sys-libs/pam sys-libs/zlib x11-libs/gtk+:3 x11-libs/libXau x11-libs/libxcb:= x11-libs/libXdmcp
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/Aylur/ags/releases/download/v1.8.2/ags-v1.8.2.tar.gz -> ags-1.8.2.tar.gz https://github.com/Aylur/ags/releases/download/v1.8.2/node_modules-v1.8.2.tar.gz -> ags-1.8.2-node_modules.tar.gz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	d309b9713dfc18e754cba88d3ba69653	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8b220bbce5c119fb1d4d5c2f5588f3ea	meson	99466844dd8d4fcfb07578a76f5a9922
-_md5_=f2310eb513eaf65180305743ff71b53d
+_md5_=47207a0209c5b64fcf3f23ba37fd0e5a
