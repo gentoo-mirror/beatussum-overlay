@@ -3,20 +3,18 @@
 
 EAPI=8
 
-MY_PN="CPU-X"
-
 inherit cmake gnome2-utils xdg
 
 DESCRIPTION="A Free software that gathers information on CPU, motherboard and more"
 HOMEPAGE="https://thetumultuousunicornofdarkness.github.io/CPU-X/"
 
-if [[ ${PV} == *9999 ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
-	EGIT_REPO_URI="https://github.com/TheTumultuousUnicornOfDarkness/${MY_PN}.git"
+	EGIT_REPO_URI="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X.git"
 else
-	SRC_URI="https://github.com/TheTumultuousUnicornOfDarkness/${MY_PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="-* ~amd64"
-	S="${WORKDIR}/${MY_PN}-${PV}"
+	S="${WORKDIR}/${PN^^}-${PV}"
 fi
 
 LICENSE="GPL-3+"

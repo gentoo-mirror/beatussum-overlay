@@ -8,11 +8,11 @@ inherit cmake flag-o-matic xdg
 DESCRIPTION="A light GUI editor for SQLite databases"
 HOMEPAGE="https://sqlitebrowser.org/"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
-	EGIT_REPO_URI="https://github.com/${PN}/${PN}.git"
+	EGIT_REPO_URI="https://github.com/sqlitebrowser/sqlitebrowser.git"
 else
-	SRC_URI="https://github.com/${PN}/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/sqlitebrowser/sqlitebrowser/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="-* ~amd64"
 fi
 
