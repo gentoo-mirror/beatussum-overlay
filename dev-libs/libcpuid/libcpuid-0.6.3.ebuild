@@ -3,12 +3,12 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{6..11} )
+PYTHON_COMPAT=( python3_{6..13} )
 
 inherit autotools python-any-r1
 
 DESCRIPTION="A small C library for x86 (and x86_64) CPU detection and feature extraction"
-HOMEPAGE="http://libcpuid.sourceforge.net/"
+HOMEPAGE="https://libcpuid.sourceforge.net/"
 SRC_URI="https://github.com/anrieff/libcpuid/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="BSD-2"
 SLOT="0/16"
