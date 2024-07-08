@@ -11,4 +11,4 @@ RESTRICT=bindist mirror test
 SLOT=0
 SRC_URI=https://launcher.mojang.com/download/linux/x86_64/minecraft-launcher_1.0.1221.tar.gz -> minecraft-launcher-1.0.1221.tar.gz https://launcher.mojang.com/download/minecraft-launcher.svg
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	optfeature	222cb475c5a4f7ae7cfb0bf510a6fe54	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
-_md5_=19321a7c9eb13d989524fdf64bd2aa58
+_md5_=76dc92d48d45e7100b323850cb27fbd5
