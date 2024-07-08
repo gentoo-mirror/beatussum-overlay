@@ -1,0 +1,15 @@
+BDEPEND=test? ( || ( >=app-shells/bash-2.03 >=app-shells/dash-0.5.4 app-shells/ksh app-shells/loksh >=app-shells/mksh-28r >=app-shells/posh-0.3.14 >=app-shells/yash-2.29 >=app-shells/zsh-3.1.9 >=sys-apps/busybox-1.20.0 ) ) >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install test unpack
+DEPEND=|| ( >=app-shells/bash-2.03 >=app-shells/dash-0.5.4 app-shells/ksh app-shells/loksh >=app-shells/mksh-28r >=app-shells/posh-0.3.14 >=app-shells/yash-2.29 >=app-shells/zsh-3.1.9 >=sys-apps/busybox-1.20.0 )
+DESCRIPTION=A full-featured BDD unit testing framework for all POSIX shells
+EAPI=8
+HOMEPAGE=https://shellspec.info/
+INHERIT=git-r3
+IUSE=doc examples test
+LICENSE=MIT-with-advertising
+PROPERTIES=live
+RDEPEND=|| ( >=app-shells/bash-2.03 >=app-shells/dash-0.5.4 app-shells/ksh app-shells/loksh >=app-shells/mksh-28r >=app-shells/posh-0.3.14 >=app-shells/yash-2.29 >=app-shells/zsh-3.1.9 >=sys-apps/busybox-1.20.0 )
+RESTRICT=binchecks strip !test? ( test )
+SLOT=0
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_md5_=03a789679e1993dee42a062384507aca

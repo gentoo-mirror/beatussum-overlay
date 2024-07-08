@@ -8,6 +8,7 @@ dev-cpp/gbenchmark:exceptions - Enable the use of exceptions in the benchmark li
 dev-cpp/gbenchmark:libpfm - Enable dev-libs/libpfm support
 dev-cpp/gbenchmark:lto - Enable Link Time Optimization (LTO)
 dev-cpp/gbenchmark:tools - Install some additional Python tools
+dev-db/sqlitebrowser:sqlcipher - Allow to open and to edit databases encrypted using dev-db/sqlcipher
 sys-apps/cpu-x:bandwidth - Built-in bandwidth
 sys-apps/cpu-x:dmidecode - Built-in dmidecode
 sys-apps/cpu-x:force-libstatgrab - Force use of sys-libs/libstatgrab instead of sys-process/procps
