@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst prepare
+DESCRIPTION=Fish shell like syntax highlighting for Zsh
+EAPI=8
+HOMEPAGE=https://github.com/zsh-users/zsh-syntax-highlighting/
+INHERIT=readme.gentoo-r1
+IUSE=test
+KEYWORDS=~amd64
+LICENSE=BSD
+RDEPEND=>app-shells/zsh-4.3.11
+RESTRICT=binchecks strip !test? ( test )
+SLOT=0
+SRC_URI=https://github.com/zsh-users/zsh-syntax-highlighting/archive/0.8.0.tar.gz -> zsh-syntax-highlighting-0.8.0.tar.gz
+_eclasses_=readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4
+_md5_=1d74118233a9f7c200ef964e954af21e

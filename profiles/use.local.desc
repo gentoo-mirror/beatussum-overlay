@@ -6,7 +6,6 @@ dev-cpp/finalcut:newfont - Install a graphical text font for X11 and the Linux c
 dev-cpp/gbenchmark:default-libcxx - Use sys-libs/libcxx instead of libstdc++ as the default stdlib
 dev-cpp/gbenchmark:exceptions - Enable the use of exceptions in the benchmark library
 dev-cpp/gbenchmark:libpfm - Enable dev-libs/libpfm support
-dev-cpp/gbenchmark:lto - Enable Link Time Optimization (LTO)
 dev-cpp/gbenchmark:tools - Install some additional Python tools
 dev-db/sqlitebrowser:sqlcipher - Allow to open and to edit databases encrypted using dev-db/sqlcipher
 sys-apps/cpu-x:bandwidth - Built-in bandwidth
@@ -16,3 +15,4 @@ sys-apps/cpu-x:libcpuid - Use the dev-libs/libcpuid library
 sys-apps/cpu-x:libglfw - Use the media-libs/glfw library
 sys-apps/cpu-x:opencl - Use the virtual/opencl library
 sys-apps/cpu-x:pci - Use the sys-apps/pciutils library
+x11-themes/tela-icon-theme:hardlink - Hardlink duplicate icons to greatly reduce installation size
