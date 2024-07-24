@@ -11,4 +11,4 @@ RDEPEND=>app-shells/zsh-4.3.11
 RESTRICT=binchecks strip !test? ( test )
 SLOT=0
 _eclasses_=readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=1d74118233a9f7c200ef964e954af21e
+_md5_=ce3a09d0fe252e89cb33e9033645da16
