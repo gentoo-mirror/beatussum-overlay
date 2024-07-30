@@ -1,13 +1,13 @@
-name: Version bump
-description: File a version bump report
-title: "[Version bump]: "
-labels: ["version bump"]
+name: New package
+description: File a new package report
+title: "[New package]: "
+labels: ["new package"]
 assignees: ["beatussum"]
 
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to report that a package need to be updated!
+      value: Thanks for taking the time to suggest a new package!
 
   - type: input
     id: contact
@@ -22,16 +22,6 @@ body:
     attributes:
       label: What package?
       placeholder: "<category>/<name>"
-
-    validations:
-      required: true
-
-  - type: input
-    id: what-is-the-latest-release
-
-    attributes:
-      label: What is the latest release?
-      placeholder: "1.2.3"
 
     validations:
       required: true
