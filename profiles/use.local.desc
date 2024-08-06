@@ -2,10 +2,10 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-cpp/gbenchmark:default-libcxx - Use sys-libs/libcxx instead of libstdc++ as the default stdlib
-dev-cpp/gbenchmark:exceptions - Enable the use of exceptions in the benchmark library
-dev-cpp/gbenchmark:libpfm - Enable dev-libs/libpfm support
-dev-cpp/gbenchmark:tools - Install some additional Python tools
+dev-cpp/benchmark:default-libcxx - Use sys-libs/libcxx instead of libstdc++ as the default stdlib
+dev-cpp/benchmark:exceptions - Enable the use of exceptions in the benchmark library
+dev-cpp/benchmark:libpfm - Enable dev-libs/libpfm support
+dev-cpp/benchmark:tools - Install some additional Python tools
 dev-db/sqlitebrowser:sqlcipher - Allow to open and to edit databases encrypted using dev-db/sqlcipher
 sys-apps/cpu-x:bandwidth - Built-in bandwidth
 sys-apps/cpu-x:dmidecode - Built-in dmidecode
