@@ -9,5 +9,5 @@ RDEPEND=>=app-shells/zsh-4.3
 RESTRICT=binchecks strip test
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-history-substring-search/archive/v1.1.0.tar.gz -> zsh-history-substring-search-1.1.0.tar.gz
-_eclasses_=prefix	eab3c99d77fe00506c109c8a736186f7	readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4
+_eclasses_=prefix	629161311cdf29bf8596fdd036826a2c	readme.gentoo-r1	32b48460d813533d85f082897cec1b80
 _md5_=cb203a61e26bfd71bad8f6c2380ec9eb
