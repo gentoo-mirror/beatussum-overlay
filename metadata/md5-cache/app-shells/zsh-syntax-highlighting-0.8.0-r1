@@ -10,5 +10,5 @@ RDEPEND=>app-shells/zsh-4.3.11
 RESTRICT=binchecks strip !test? ( test )
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-syntax-highlighting/archive/0.8.0.tar.gz -> zsh-syntax-highlighting-0.8.0.tar.gz
-_eclasses_=readme.gentoo-r1	32b48460d813533d85f082897cec1b80
+_eclasses_=readme.gentoo-r1	b045f3acf546393ab6b3170781875358
 _md5_=ce3a09d0fe252e89cb33e9033645da16
