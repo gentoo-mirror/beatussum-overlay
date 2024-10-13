@@ -5,12 +5,12 @@ app-shells/zsh-syntax-highlighting 0.8.0-r1 9999: Fish shell like syntax highlig
 dev-cpp/benchmark 1.9.0-r1: A microbenchmark support library
 dev-cpp/finalcut 0.9.1-r1 9999: A text-based widget toolkit
 dev-db/sqlitebrowser 3.13.0 9999: A light GUI editor for SQLite databases
-dev-libs/libcpuid 0.6.5: A small C library for x86 (and x86_64) CPU detection and feature extraction
+dev-libs/libcpuid 0.7.0: A small C library for x86 (and x86_64) CPU detection and feature extraction
 dev-util/kcov 43 9999: Kcov is a code coverage tester for compiled languages, Python and Bash
 dev-util/shellspec 0.28.1-r2 9999: A full-featured BDD unit testing framework for all POSIX shells
 games-action/minecraft-launcher 1.0.1221-r1: Minecraft's official launcher
-sys-apps/cpu-x 5.0.4 9999: A Free software that gathers information on CPU, motherboard and more
-sys-apps/save-backlight 1.1.2: An OpenRC service for restoring the last brightness level on reboot
+sys-apps/cpu-x 5.1.0 9999: A Free software that gathers information on CPU, motherboard and more
+sys-apps/save-backlight 1.1.4: An OpenRC service for restoring the last brightness level on reboot
 sys-auth/open-fprintd 0.6 9999: fprintd replacement which allows you to have your own backend
 sys-auth/python-validity 0.14 9999: Validity fingerprint sensor prototype
 sys-block/zram-init 11.1 9999: Scripts to support compressed swap devices or ramdisks with zRAM
