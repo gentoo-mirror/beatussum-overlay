@@ -13,6 +13,6 @@ sys-apps/cpu-x 5.1.0 9999: A Free software that gathers information on CPU, moth
 sys-apps/save-backlight 1.1.4: An OpenRC service for restoring the last brightness level on reboot
 sys-auth/open-fprintd 0.6 9999: fprintd replacement which allows you to have your own backend
 sys-auth/python-validity 0.14 9999: Validity fingerprint sensor prototype
-sys-block/zram-init 12.1 9999: Scripts to support compressed swap devices or ramdisks with zRAM
+sys-block/zram-init 12.2 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 x11-terms/cool-retro-term 1.2.0: Terminal emulator with an old school look and feel
 x11-themes/tela-icon-theme 20240419 99999999: A flat colorful Design icon theme
