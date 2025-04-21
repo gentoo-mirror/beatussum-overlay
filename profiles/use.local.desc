@@ -7,11 +7,4 @@ dev-cpp/benchmark:libcxx - Use sys-libs/libcxx instead of libstdc++ as the defau
 dev-cpp/benchmark:libpfm - Enable dev-libs/libpfm support
 dev-cpp/benchmark:tools - Install some additional Python tools
 dev-db/sqlitebrowser:sqlcipher - Allow to open and to edit databases encrypted using dev-db/sqlcipher
-sys-apps/cpu-x:bandwidth - Built-in bandwidth
-sys-apps/cpu-x:dmidecode - Built-in dmidecode
-sys-apps/cpu-x:force-libstatgrab - Force use of sys-libs/libstatgrab instead of sys-process/procps
-sys-apps/cpu-x:libcpuid - Use the dev-libs/libcpuid library
-sys-apps/cpu-x:libglfw - Use the media-libs/glfw library
-sys-apps/cpu-x:opencl - Use the virtual/opencl library
-sys-apps/cpu-x:pci - Use the sys-apps/pciutils library
 x11-themes/tela-icon-theme:hardlink - Hardlink duplicate icons to greatly reduce installation size
