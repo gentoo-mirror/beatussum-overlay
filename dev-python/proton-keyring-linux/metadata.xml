@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+
 <pkgmetadata>
 	<maintainer type="person">
 		<email>beatussum@protonmail.com</email>
 		<name>Mattéo Rossillol‑‑Laruelle</name>
 	</maintainer>
+
 	<stabilize-allarches/>
+
 	<upstream>
 		<maintainer status="active">
-			<name>zsh-users</name>
+			<name>Proton AG</name>
+			<email>opensource@proton.me</email>
 		</maintainer>
-		<changelog>https://raw.githubusercontent.com/zsh-users/zsh-autosuggestions/master/CHANGELOG.md</changelog>
-		<bugs-to>https://github.com/zsh-users/zsh-autosuggestions/issues/</bugs-to>
-		<remote-id type="github">zsh-users/zsh-autosuggestions</remote-id>
+
+		<bugs-to>https://github.com/ProtonVPN/python-proton-keyring-linux/issues/</bugs-to>
+		<remote-id type="github">ProtonVPN/python-proton-keyring-linux</remote-id>
 	</upstream>
 </pkgmetadata>

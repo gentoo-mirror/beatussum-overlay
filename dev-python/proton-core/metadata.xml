@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+
 <pkgmetadata>
 	<maintainer type="person">
 		<email>beatussum@protonmail.com</email>
 		<name>Mattéo Rossillol‑‑Laruelle</name>
 	</maintainer>
+
 	<stabilize-allarches/>
+
 	<upstream>
 		<maintainer status="active">
-			<email>team@grml.org</email>
-			<name>grml-team</name>
+			<name>Proton Technologies</name>
+			<email>contact@protonmail.com</email>
 		</maintainer>
-		<changelog>https://raw.githubusercontent.com/grml/grml-etc-core/master/debian/changelog</changelog>
-		<doc>https://grml.org/docs/</doc>
-		<bugs-to>https://grml.org/bugs/</bugs-to>
-		<remote-id type="github">grml/grml-etc-core</remote-id>
+
+		<bugs-to>https://github.com/ProtonVPN/python-proton-core/issues/</bugs-to>
+		<remote-id type="github">ProtonVPN/python-proton-core</remote-id>
 	</upstream>
 </pkgmetadata>
