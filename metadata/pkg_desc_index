@@ -1,4 +1,4 @@
-app-shells/zsh-syntax-highlighting 0.8.0-r1 9999: Fish shell like syntax highlighting for Zsh
+app-shells/zsh-syntax-highlighting 0.8.0-r2 9999: Fish shell like syntax highlighting for Zsh
 dev-cpp/benchmark 1.9.2: A microbenchmark support library
 dev-cpp/finalcut 0.9.1-r2 9999: A text-based widget toolkit
 dev-db/sqlitebrowser 3.13.1 9999: Light GUI editor for SQLite databases
