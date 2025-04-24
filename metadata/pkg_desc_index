@@ -9,12 +9,12 @@ dev-python/proton-vpn-local-agent 1.4.5: Proton VPN local agent written in Rust
 dev-python/proton-vpn-network-manager 0.12.13-r3: Proton VPN Network Manager handler
 dev-python/sentry-sdk 2.26.1: Python client for Sentry
 dev-util/kcov 43 9999: Kcov is a code coverage tester for compiled languages, Python and Bash
-dev-util/shellspec 0.28.1-r2 9999: A full-featured BDD unit testing framework for all POSIX shells
+dev-util/shellspec 0.28.1-r3 9999: A full-featured BDD unit testing framework for all POSIX shells
 games-action/minecraft-launcher 1.0.1221-r1: Minecraft's official launcher
 net-vpn/proton-vpn-gtk-app 4.9.6-r1: Proton AG VPN Core API
 sys-apps/save-backlight 1.1.4: An OpenRC service for restoring the last brightness level on reboot
 sys-auth/open-fprintd 0.6 9999: fprintd replacement which allows you to have your own backend
 sys-auth/python-validity 0.14 9999: Validity fingerprint sensor prototype
-sys-block/zram-init 12.2 9999: Scripts to support compressed swap devices or ramdisks with zRAM
+sys-block/zram-init 12.2.2 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 x11-terms/cool-retro-term 1.2.0: Terminal emulator with an old school look and feel
 x11-themes/tela-icon-theme 20240419 99999999: A flat colorful Design icon theme
