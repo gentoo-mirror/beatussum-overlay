@@ -1,7 +1,7 @@
 app-shells/zsh-syntax-highlighting 0.8.0-r1 9999: Fish shell like syntax highlighting for Zsh
 dev-cpp/benchmark 1.9.2: A microbenchmark support library
 dev-cpp/finalcut 0.9.1-r2 9999: A text-based widget toolkit
-dev-db/sqlitebrowser 3.13.0 9999: A light GUI editor for SQLite databases
+dev-db/sqlitebrowser 3.13.1 9999: Light GUI editor for SQLite databases
 dev-python/proton-core 0.4.0-r3: Proton Technologies API wrapper
 dev-python/proton-keyring-linux 0.2.0-r2: Proton Technologies keyring plugins for linux
 dev-python/proton-vpn-api-core 0.42.4-r3: Proton AG VPN Core API
