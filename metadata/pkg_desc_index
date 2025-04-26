@@ -11,7 +11,7 @@ dev-python/sentry-sdk 2.26.1: Python client for Sentry
 dev-util/kcov 43 9999: Kcov is a code coverage tester for compiled languages, Python and Bash
 dev-util/shellspec 0.28.1-r3 9999: A full-featured BDD unit testing framework for all POSIX shells
 games-action/minecraft-launcher 1.0.1221-r1: Minecraft's official launcher
-net-vpn/proton-vpn-gtk-app 4.9.6-r3: Proton AG VPN Core API
+net-vpn/proton-vpn-gtk-app 4.9.6-r3: Proton VPN GTK app
 sys-apps/save-backlight 1.1.4: An OpenRC service for restoring the last brightness level on reboot
 sys-auth/open-fprintd 0.6 9999: fprintd replacement which allows you to have your own backend
 sys-auth/python-validity 0.14 9999: Validity fingerprint sensor prototype
