@@ -1,20 +1,7 @@
 app-shells/zsh-syntax-highlighting 0.8.0-r2 9999: Fish shell like syntax highlighting for Zsh
 dev-cpp/benchmark 1.9.2: A microbenchmark support library
-dev-cpp/finalcut 0.9.1-r2 9999: A text-based widget toolkit
 dev-db/sqlitebrowser 3.13.1 9999: Light GUI editor for SQLite databases
-dev-python/proton-core 0.4.0-r3: Proton Technologies API wrapper
-dev-python/proton-keyring-linux 0.2.0-r2: Proton Technologies keyring plugins for linux
-dev-python/proton-vpn-api-core 0.42.4-r3: Proton AG VPN Core API
-dev-python/proton-vpn-local-agent 1.4.5: Proton VPN local agent written in Rust
-dev-python/proton-vpn-network-manager 0.12.13-r6: Proton VPN Network Manager handler
-dev-python/sentry-sdk 2.26.1: Python client for Sentry
 dev-util/kcov 43 9999: Kcov is a code coverage tester for compiled languages, Python and Bash
-dev-util/shellspec 0.28.1-r3 9999: A full-featured BDD unit testing framework for all POSIX shells
-net-misc/ffsend 0.2.77: Easily and securely share files from the command line
-net-vpn/proton-vpn-gtk-app 4.9.6-r3: Proton VPN GTK app
-sys-apps/save-backlight 1.1.4: An OpenRC service for restoring the last brightness level on reboot
-sys-auth/open-fprintd 0.6 9999: fprintd replacement which allows you to have your own backend
-sys-auth/python-validity 0.14 9999: Validity fingerprint sensor prototype
 sys-block/zram-init 12.2.2 9999: Scripts to support compressed swap devices or ramdisks with zRAM
 x11-terms/cool-retro-term 1.2.0: Terminal emulator with an old school look and feel
 x11-themes/tela-icon-theme 20240419 99999999: A flat colorful Design icon theme
